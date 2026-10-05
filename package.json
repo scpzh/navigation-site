@@ -1,0 +1,21 @@
+{
+  "name": "scp-foundation-navigation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SCP Foundation wiki navigation site (Fandom & Miraheze) — static SPA built with Vue 3, Vite and Naive UI.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "naive-ui": "^2.40.4",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.2"
+  },
+  "allowScripts": ["esbuild"]
+}
