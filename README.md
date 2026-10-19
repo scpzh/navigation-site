@@ -1,4 +1,3 @@
-<img alt="SCP-MH" src="/public/logo-scp-mh.png" width="96" />
 <p align="center">
   <img alt="SCP-MH" src="/public/logo-scp-mh.png" width="96" />
 </p>
