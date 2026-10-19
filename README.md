@@ -1,6 +1,7 @@
-<p style="text-align:center">
 <img alt="SCP-MH" src="/public/logo-scp-mh.png" width="96" />
-
+<p align="center">
+  <img alt="SCP-MH" src="/public/logo-scp-mh.png" width="96" />
+</p>
 <br>
 <span style="font-size:24px">SCP基金会Miraheze中文导航站</span>
 <br>
